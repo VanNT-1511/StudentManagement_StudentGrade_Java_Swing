@@ -1,0 +1,6 @@
+PH19600|Phạm Trường Sơn|sonpt01@fpt.edu.vn|0147852369|true|Hà Giang|gundam.png
+PH19604|Nguyễn Thượng Văn|vannt02@fpt.edu.vn|0258963147|true|Hà Nội|naruto.png
+PH19494|Nguyễn Thị Trang|trangnt03@fpt.edu.vn|0369852147|false|Hà Nội|womanjapan.png
+PH19532|Hoàng Như Sơn|sonnh04@fpt.edu.vn|0789654123|true|Thanh Hóa|ninjarua.png
+PH27725|Lê Thị Hạnh|hanhlt05@fpt.edu.vn|0123456987|false|Hà Nội|vodien.png
+PH27721|Đỗ Thị Thu Trang|trangdtt06@fpt.edu.vn|0159753258|false|Hà Nội|vodien.png
